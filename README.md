@@ -57,4 +57,5 @@ The **Age Calculator** serves as both a functional utility and an educational sh
    git clone https://github.com/your-username/age-calculator.git
 
 📸 Screenshots
+
 <img width="365" height="807" alt="image" src="https://github.com/user-attachments/assets/2fa39c24-aadc-4aed-92a5-6595e06fb598" />
