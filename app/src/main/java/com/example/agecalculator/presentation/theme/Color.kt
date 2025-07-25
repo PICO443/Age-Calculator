@@ -1,4 +1,4 @@
-package com.example.agecalculator.ui.theme
+package com.example.agecalculator.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
